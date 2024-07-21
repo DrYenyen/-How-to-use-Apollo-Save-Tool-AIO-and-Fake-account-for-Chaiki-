@@ -38,7 +38,8 @@ copy and paste into > https://www.online-python.com/
 copy and paste into > https://www.programiz.com/python-programming/online-compiler/   
 Already loaded here > https://trinket.io/embed/python3/ba2ff26973   
 9. Alternatively run on your own PC offline     
-10. Once you are ready to run the code paste the string of letters and numbers you copied earlier where the red line is shown below and run the scrip          
+10. Once you are ready to run the code paste the string of letters and numbers you copied earlier where the red line is shown below and run the scrip        
+![-](line.JPG)      
 11. Copy the new string of numbers and letters it should end with ''=''    
 12. You can now open Chiaki and paste it in the **PSN Account-ID (base64):** field along with the pin you are getting from the remote play menu.        
 13. Enjoy!     
