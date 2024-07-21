@@ -9,7 +9,7 @@
 5. Select the account you want to activate and press **X**         
 6. A string of letters and numbers will show up copy them **CORRECTLY** then press **R2** then **X** and then keep pressing **O** till you are asked if you want to exit to the XMB accept then restart the console            
 (the string can be found in **About** in Apollo Save Tool incase you lose it)              
-7. Download the **main.py** from here >    or copy and paste the code below into a website that is able to run python scripts         
+7. Download the **main.py** from here > [main.py](https://github.com/DrYenyen/-How-to-use-Apollo-Save-Tool-AIO-and-Fake-account-for-Chaiki-/releases/download/new/main.py)   or copy and paste the code below into a website that is able to run python scripts         
 ```    
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
