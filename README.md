@@ -34,5 +34,3 @@ Already loaded here > https://trinket.io/embed/python3/ba2ff26973
 11. Copy the new string of numbers and letters it should end with ''=''    
 12. You can now open Chiaki and paste it in the **PSN Account-ID (base64):** field along with the pin you are getting from the remote play menu.        
 13. Enjoy!     
-
-Get-NetAdapter | Select-Object Name, InterfaceDescription, InterfaceGuid
