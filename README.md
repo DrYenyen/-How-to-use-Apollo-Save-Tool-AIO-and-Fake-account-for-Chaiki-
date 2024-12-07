@@ -1,5 +1,5 @@
-# -How-to-use-Apollo-Save-Tool-AIO-Fake-account-for-Chaiki-
- How to use Apollo Save Tool AIO + Fake account for Chaiki 
+# -How-to-use-Apollo-Save-Tool-AIO-Fake-account-for-Chiaki-
+ How to use Apollo Save Tool AIO + Fake account for Chiaki 
 
 # Fake account creation for Chiaki and misc       
 1. Download and install [Apollo Save Tool](https://pkg-zone.com/details/APOL00004) to your PS4 guide on how here >[How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)         
